@@ -61,9 +61,9 @@ Beyond code, I'm a **content creator**: I share developer tips and tutorials on 
 ## 🏅 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS_Certified_Developer_Associate-Nov_2025-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Developer – Associate" />
-  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-May_2023-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/ServiceNow-Certified_System_Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow Certified System Administrator" />
+  <img src="https://img.shields.io/badge/AWS_Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Developer – Associate" />
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/ServiceNow_Certified_System_Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow Certified System Administrator" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ Beyond code, I'm a **content creator**: I share developer tips and tutorials on 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kautilya2000&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=kautilya2000&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
