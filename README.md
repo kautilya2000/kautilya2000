@@ -12,12 +12,6 @@
 
 ## 🚀 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS_Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Developer – Associate" />
-  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/ServiceNow_Certified_System_Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow Certified System Administrator" />
-</p>
-
 I'm a **Software Developer with 3 years and 4 months of experience** building full-stack web and mobile applications, from pixel-perfect React front ends to solid Spring Boot and Node.js back ends, deployed on **AWS** and **Azure**. I care about clean code, good UX, and shipping things that work.
 
 Beyond code, I'm a **content creator**: I share developer tips and tutorials on **YouTube** 🎥, write about tech on **Medium** ✍️, and post bite-sized dev content on **Instagram** 📸.
@@ -63,6 +57,14 @@ Beyond code, I'm a **content creator**: I share developer tips and tutorials on 
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
 
 ---
+
+## 🏅 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS_Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Developer – Associate" />
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/ServiceNow_Certified_System_Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow Certified System Administrator" />
+</p>
 
 ---
 
