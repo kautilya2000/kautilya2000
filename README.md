@@ -56,31 +56,15 @@ Beyond code, I'm a **content creator**: I share developer tips and tutorials on 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
 
-### 🏆 Certifications
-![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS_Certified_Developer_Associate-Nov_2025-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-May_2023-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![ServiceNow CSA](https://img.shields.io/badge/ServiceNow-Certified_System_Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
-
 ---
 
-## 🌐 Find Me Online
+## 🏅 Certifications
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kautilyakankipati/"><img src="https://img.shields.io/badge/LinkedIn-Kautilya_Kankipati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/kautilya2000"><img src="https://img.shields.io/github/followers/kautilya2000?label=GitHub%20Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/AWS_Certified_Developer_Associate-Nov_2025-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Developer – Associate" />
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-May_2023-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/ServiceNow-Certified_System_Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow Certified System Administrator" />
 </p>
-
-<!--
-  TODO: Replace the placeholders below with your real handles, then move this block out of the comment.
-  - YOUR_YOUTUBE_CHANNEL_ID: the "UC..." ID from youtube.com/account_advanced
-  - YOUR_YOUTUBE_HANDLE / YOUR_MEDIUM_HANDLE / YOUR_INSTAGRAM_HANDLE: your usernames
-
-<p align="left">
-  <a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE"><img src="https://img.shields.io/youtube/channel/subscribers/YOUR_YOUTUBE_CHANNEL_ID?label=YouTube&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" alt="YouTube" /></a>
-  <a href="https://medium.com/@YOUR_MEDIUM_HANDLE"><img src="https://img.shields.io/badge/Medium-Read_my_articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE"><img src="https://img.shields.io/badge/Instagram-Follow_me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
--->
 
 ---
 
